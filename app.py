@@ -130,7 +130,7 @@ else:
 
 footer="""<style>
 a:link , a:visited{
-color: red;
+color: blue;
 background-color: transparent;
 text-decoration: underline;
 }
@@ -146,8 +146,8 @@ position: fixed;
 left: 0;
 bottom: 0;
 width: 100%;
-background-color: black;
-color: white;
+background-color: white;
+color: black;
 text-align: center;
 }
 </style>
